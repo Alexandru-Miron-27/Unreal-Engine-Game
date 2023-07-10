@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/_Unreal Projects/OriginsRPG/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion_Blendspace1D.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/ABP_RPG_Character.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouched_BlendSpace1D.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_BlendSpace1D.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_RPG_Red_01.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_RPG_Gold.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RA/6YY52DPLMG1B4ODHJA6UZT.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/ThirdPerson/Input/Actions/IA_.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/ThirdPerson/Input/Actions/IA_Assassinate.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Blueprints/BP_Dummy.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Blueprints/BPI_Assassination.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RH/8D7E5LLU5JQEJLMQOFU7KD.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/UI/WB_AssassinationPrompt.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouched.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_RPG_Red.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_RPG_Gold_02.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Gold_01.uasset",
+				"E:/_Unreal Projects/OriginsRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_RPG_Red_02.uasset"
+			]
+		}
+	]
+}
