@@ -7,6 +7,8 @@
 			"files": [
 				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/Blueprints/BPC_Player_Stats.uasset",
 				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"E:/_Unreal Projects/OriginsRPG/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
 				"E:/_Unreal Projects/OriginsRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
