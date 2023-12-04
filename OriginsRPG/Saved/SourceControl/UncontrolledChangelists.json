@@ -124,6 +124,8 @@
 				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/AI/Services/BT_Service_GetDistanceToTarget.uasset",
 				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/AI/BPI_AI_BehaviourTrees.uasset",
 				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/AI/Tasks/BT_Task_AttackTarget.uasset",
+				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/AI/Tasks/BT_Task_ClearInvestigateValue.uasset",
+				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/UI/WB_InvestigateIcon.uasset",
 				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/AI/BP_Dummy.uasset",
 				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/Sword/textures/M_Sword.uasset",
 				"E:/_Unreal Projects/OriginsRPGgit/Unreal-Engine-RPG/OriginsRPG/Content/Sword/textures/Sword_Roughness.uasset",
